@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=float(input())
+b=float(input())
 sum=a**2+b**2
 differance=a**2-b**2
 product=a**2*b**2
