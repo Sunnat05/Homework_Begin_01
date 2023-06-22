@@ -1,4 +1,4 @@
 d=float(input())
-п=float(input())
+п=3.14
 L=d*п
 print(L)
